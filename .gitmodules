@@ -22,3 +22,9 @@
 [submodule "content/plugins-mu/hm-accounts"]
 	path = content/plugins-mu/hm-accounts
 	url = git://github.com/humanmade/hm-accounts.git
+[submodule "content/plugins/hmteatally"]
+	path = content/plugins/hmteatally
+	url = git@github.com:humanmade/hm-teatally.git
+[submodule "content/plugins/hmovertime"]
+	path = content/plugins/hmovertime
+	url = git@github.com:humanmade/hm-overtime.git
