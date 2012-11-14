@@ -28,3 +28,6 @@
 [submodule "content/plugins/hmovertime"]
 	path = content/plugins/hmovertime
 	url = git@github.com:humanmade/hm-overtime.git
+[submodule "content/plugins/hmholidays"]
+	path = content/plugins/hmholidays
+	url = git@github.com:humanmade/hm-holidays.git
